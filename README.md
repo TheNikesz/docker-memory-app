@@ -4,7 +4,7 @@ Aby zbudować opracowany obraz i nazwać go lab4docker należy wykorzystać pole
 
 # 3.
 
-Aby utworzyć volumen o nazwie LocalVol (lokalnie na maszynie wirtualnej) należy wykorzystać polecenie ```docker volume create LocalVol```.
+Aby utworzyć wolumen o nazwie LocalVol (lokalnie na maszynie wirtualnej) należy wykorzystać polecenie ```docker volume create LocalVol```.
 
 # 4. 
 
